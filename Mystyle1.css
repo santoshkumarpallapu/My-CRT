@@ -1,0 +1,20 @@
+body,h1,h2,p,ul,li {
+    margin : 0
+    padding : 0
+}
+body{
+    font-family: Arial,sans-serif;
+}
+header {
+    background-color: #222421;
+    color: #fff;
+    text-decoration:none;
+}
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}

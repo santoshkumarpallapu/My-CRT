@@ -1,0 +1,12 @@
+body 
+{background-color: rgb(42, 165, 79);}
+h1 
+{background-color: green;}
+h2
+{background-color: rgb(255, 0, 119);}
+p
+{background-color: rgb(127,136,255);}
+ol 
+{list-style-type: upper-roman;}
+ul
+{list-style-type: circle;}
